@@ -1,3 +1,3 @@
 # paxos-j
 
-* paxos library for java language
+* java-based paxos library.
